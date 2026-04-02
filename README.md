@@ -4,6 +4,12 @@
 ### 🛡️ This is that vanila minecraft with more better view, load chunks, RAM fixes and overs fixes and more more more. The most important thing here is the generation and rendering. Specifically, the voxy, Tralimth, and Tictonic mods have brought a new visual to this old game, which can be easily customized in Sodium (mod). The build already includes a config with maximum graphics and minimal optimization. You can easily change these settings using just two sliders in the settings. Enjoy the game!
 [Watch the video this chunks load (voxy)](https://youtu.be/KYNKUWTfGfo)
 
+# How to download?
+Move the files from the archive (any) to the .minecraft folder
+Don't forget to download the 1.21.11 fabric and 25 java game versions in advance.
+
+!!!!!The modpack conflicts with the tlauncher mod. Be more careful
+
 # Mod list
 # All changes are made first in the files and then here. The project files are a more reliable source ;)
 
