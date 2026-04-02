@@ -5,10 +5,11 @@
 [Watch the video this chunks load (voxy)](https://youtu.be/KYNKUWTfGfo)
 
 # How to download?
+Download from my tg files - https://t.me/lamodpacks
 Move the files from the archive (any) to the .minecraft folder
 Don't forget to download the 1.21.11 fabric and 25 java game versions in advance.
 
-!!!!!The modpack conflicts with the tlauncher mod. Be more careful
+!!!!!The modpack conflicts with the tlauncher mod. Be more careful!!!!!!!
 
 # Mod list
 # All changes are made first in the files and then here. The project files are a more reliable source ;)
